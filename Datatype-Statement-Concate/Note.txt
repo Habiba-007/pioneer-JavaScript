@@ -1,0 +1,45 @@
+
+        
+        
+        
+        
+        <-START JAVASCRIPT PIONER FROM DEV-ZONE PLATFORM->
+
+--DataType-Statement-Concept:
+
+                        -STRING CONCEPT,NUMBER CONCEPT:->
+-01303470118- ei mobile number holo string typer data karon mobile number future a konow mathmetical operation porichalona korbe na..jei number gula future a konow mathmeticel operation porichalona korbe na seigula holo string typer data ..
+
+                        -STRING-CONCEPT,NUMBER CONCEPT:->
+-Number typer data:
+-Number typer data jodi porno shongkha hoy tahole seta (intiger data).
+-Number typer data jodi (.dosomik)shongkha hoy tahole seta (Float data).
+        
+-ARRAY CONCEPT:
+-
+
+                        -OBJECT CONCEPT:->
+-name:"ali",
+-age:12,
+-location:'Mirpur',
+-group:o+
+
+
+                                   -UNDEFINED CONCEPT:->
+-undefined jaha defined kora hoy nai.
+-chan-mia , karim-mia er kasa bollo farid kiso dite bolse but karim mia bollo farid vai kisoi dite bole nai(ei kiso na dite bolai holo)(undefined).
+-undefined mana kiso na dewa or kono kiso defined na kora.
+
+
+                                        -NULL CONCEPT:->
+-karim jodi fahim vai k bole dei chan-mia apnar kasa asle kisoi dibenna (tahole sei data hobe)-(null_data) that means (NULL= KISOI diben-na).
+
+
+
+                                --Statement and Rules Concepts:->
+-now we underStand about Statement and rules Concepts
+-Statement & Rules:->
+-In a programming lenguage, instructions(lines of code)are called Statements.
+-put a semicolon after complete a Statement.
+-also u can avoid semicolon in js.
+-two or more words are joined by using concatenation(+).
