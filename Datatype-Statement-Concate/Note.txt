@@ -5,6 +5,20 @@
         
         <-START JAVASCRIPT PIONER FROM DEV-ZONE PLATFORM->
 
+
+        -BOM Function:->(Browser Object Model=BOM) only run with Browser.
+        -Alert(kaj hossa ekjon user k konow ekta allert dewa).
+        -Confirm(kaz hossa user er kas theke ekta confirmation nibo:mana tumi vat khaba naki khaba na yes or no)
+        -Prompt(kaz hossa user er kas theke data nibo:tumi vat khaba?khaile ki jonno vat khaba bolo,tokhon user likhe dite parbe ami vat khete chai na karon vat khele amr problem hote pare).
+
+
+
+
+
+
+
+
+
 --DataType-Statement-Concept:
 
                         -STRING CONCEPT,NUMBER CONCEPT:->
@@ -43,3 +57,13 @@
 -put a semicolon after complete a Statement.
 -also u can avoid semicolon in js.
 -two or more words are joined by using concatenation(+).
+
+
+
+
+
+
+
+
+
+

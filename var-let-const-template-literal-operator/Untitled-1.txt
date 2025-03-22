@@ -1,0 +1,61 @@
+
+
+            <-var,let,const,tempalte_literal,comment,operator->
+            -var
+            -let
+            -const
+            -tempalte_literal
+            -comment
+            -operators name:=>
+            -- =>call decrement(ArithMetic operator)
+            ++ =>call increment (ArithMetic operator)
+            % => call modulas(ArithMetic operator)
+
+            <= => call less than equal(Comparison operator)
+            >= => call greater than equal(Comparison operator)
+            < =>call less than(Comparison operator)
+            > => call greater than(Comparison operator)
+            != =>call not equal(Comparison operator)
+            == =>call double equal(Comparison operator)
+            === => call tripel equal(Comparison operator)
+
+            = =>call (Assignment operator)
+
+            &&->and , ||->or, !->not =>(call Logical operator)
+
+            +,+= =>(call String operator)('concatenation' er opor nam holo strign operator)
+
+            & ~^|<< >> >>> <<< =>(call Bitwise operator)
+
+            (?:), delete-in -instanceof -typeof -new -yield -void =>(call Special Type operator)
+
+
+
+
+
+       -Logic build: with (comparison operator)
+            farid>robin(farid boro robin er theke)
+            robin<farid(robin soto farid er theke)
+
+            farid >= robin (farid vai robin er theke borow hote paren abar soman-o hote paren)
+            robin <= farid (robin farid vai er theke sotow hote paren abar soman-o hote paren)
+
+            farid == robin (farid and robin soman soman)
+
+            farid != robin (farid and robin kokhonow soman na , tumi ami kokhonow soman noi)
+
+            farid === robin (farid and robin er age soman soman , farid and robin er face o dekte soman soman , farid and robin er energy o soman soman , farid and robin taka power o soman soman)
+
+
+            faird !== robin (farid and robin er modde age er mil nai, kaporer mil nai, face er mil nai, moner mil nai, )
+
+
+       -Logic Build:-with (logical operator)
+            obbosoi boyas >=20 && Taka == 500 && Strong == true (means- age 20 er besi hote hobe && taka 500 thakte hobe && Strong hote hobe )
+
+            obbosoi boyas >=20 || Taka == 500 (means- age 20 er besi na but taka 500 asa no problem picnic a chole aso )
+
+          (taka==500 && permision==true && age >= 30) || Taka==5000 ;
+
+
+     
