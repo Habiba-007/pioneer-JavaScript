@@ -1,0 +1,15 @@
+
+
+
+    -Conditional_Statement(like-if,else,ifelse,swithc case etc.):
+
+        -if,
+        -else,
+        -elseif,
+        -switch case,
+        -Ternary operator(condition ? true return : false return),
+        -nulish coalesing operator (return the value ?? return something if the value null or undefined),
+        -undefined, null, and empty vlaue of a variable,
+        -parsent, Number,parseFloat, + for the string to number conversion,
+        -Truthy & Falsy values (undefined, null, empty, 0, NaN, false),
+        -  ==,=== concept
