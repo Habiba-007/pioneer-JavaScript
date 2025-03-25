@@ -145,3 +145,9 @@ switch (dist) {
         break;
 }
 
+/**
+ * emon ekti condition make koron- jeikhane user dolar,pound,uro, k tkaa te convert korte pare!
+ * biar jonno patro find out korar condition - patrer age minimum-30, salary-5othousand minimum,long 6-feet hote hobe or salary 2-lakh hole r kisoi lagbe na....patri biar jonno kobol bolbe thats all.
+ * Borgo-Khetro,Ayoto-Khetro, Trivuj,Britter-Khetrofol ber korar jonno condition make koron.
+ * Gpa and Grade ber koron class dekhano onojai,only Jenerel Koota er jonno 33 pass mark and Freedom-fighter der jonno pass mark hobe-20
+ */
