@@ -17,6 +17,10 @@
  * variable nite hobe-age,salary and height than use condition -if-else,switch-case,or ternary.
  */
 
+
+
+
+
 /**
  * @NullCoalescingOPERATOR
  * Konow 1ta Variable er value jodi NULL hoy tahole amar OUtput e NULL jno show na kore onno kiso show korate chai.. jno null show na kore
@@ -133,4 +137,82 @@ if (permission) {
     console.log('its truthy value');
 } else {
     console.log('its falsy value');
+}
+
+
+
+
+/**
+ * @problemSolving3
+ * Borgo-Khetro,Ayoto-Khetro, Trivuj,Britter-Khetrofol ber korar jonno condition make koron.
+ */
+// condition with Borgo Khetro er TOtal  (Khetrofol bahir koro)
+let side = 5;
+borgoKhetro = side > 0 ? area = side * side : 'area not defined'
+console.log('borkhetro er khetrofol holo -', borgoKhetro);
+//condition with AytoKhetrer Khetrofol bahir Koro? 
+let length //=prompt('Total Length');
+let width //=prompt('Total width')
+ayotoKhetro = length > 0 && width > 0 ? area = length * width : 'AyotoKhetrer area was not defined'
+console.log(`
+        Length=${length}
+        Width=${width}
+        -----------------
+        AytoKhetrer-Khetrofol Holo= ${length*width}
+    `);
+
+//condition with Triangle er area?
+/*
+let base;
+let height;
+Triangle = base > 0 && height > 0 ? area = 0.5 * base * height : 'Triangle area is not deifned'
+console.log(`
+        Base:${base}
+        Height:${height}
+        -------------------------
+        Triangle-Area=${base*height*0.5}
+    `);
+*/
+/**User er Body Mess Index bahir korar jonno (BMI) ekta logic likhon.
+ *BMI calculator holo (Apnar Height Onoja-e apnar Weight Thik Thak asa kina ta check kora)
+ */
+// now finaly (BMI BODY-MASS INDEX) 
+let weight = 80;
+let height = 1.778;
+
+let BMI = weight / (height * height);
+//now use switch case or ifelse condition or ternary condition..
+/*
+switch (true||false) {
+    case BMI>=0 && BMI<18.5:
+        console.log('u r unhelthy person')
+        break;
+    case BMI >= 18.5 && BMI < 25:
+        console.log('u r Healty person congrats');
+        break;
+    case BMI >= 25 && BMI < 30:
+        console.log('man dam shit u r overweght person ,control urself');
+        break;
+    case BMI >=30:
+        console.log('oh No u r feel sufocated and u fall in a deppreseion may be');
+        break
+    default:
+        console.log('Make yoursel so  Healthy and if needed go to zym');
+        break;
+}
+*/
+if (BMI >= 0 && BMI < 18.5) {
+    console.log('u r unhelthy person');
+}
+else if (BMI >= 18.5 && BMI < 25) {
+    console.log('u r Healty person congrats');
+}
+else if (BMI >= 25 && BMI < 30) {
+    console.log('man dam shit u r overweght person ,control urself');
+}
+else if (BMI >= 30) {
+    console.log('oh No u r feel sufocated and u fall in a deppreseion may be');
+}
+else {
+    console.log('Make yoursel so  Healthy and if needed go to zym');
 }
