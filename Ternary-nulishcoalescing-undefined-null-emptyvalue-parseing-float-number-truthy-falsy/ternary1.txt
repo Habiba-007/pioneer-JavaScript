@@ -1,2 +1,64 @@
 
 
+    Nulish-COalesing-Operator (null coalescing Operator)
+    null coalescing Operator er symbol holo=??
+    console.log(return value ?? return something if the value was Null!)
+    exmaple-
+    let name=null;
+    -jodi name er value null thake tokhon amra teminal null show korabo na ,ei jonno amra null coalescing Operator er value bosabo....
+    console.log(name ?? 'name er konow value nai')-terminal a show korbe=name er konow value nai
+
+    -Null mane variable er konow value nai..mana value dewa hoy nai.
+
+    let name =null
+    console.log(typeof name)->null er data type holo (object)
+    let name=""
+    console.log(typeof name)->data type holo (string)
+
+    ----undefined,null and empty value of a variable
+    -----parseint,number,parseFloat,+   for the string to number conversion 
+    ----- Truthy & Falsy values(undefined,null,empty,0 NaN,false)
+    ------ single-equeal (=), double-equeal(==), tripple equeal(===), concept
+
+
+let alo =500
+let sugar ='500'--->ekhane 500-string akare ase , eitake number e divert korte hobe than operation chalate hobe.
+let sugar = +'500'--> string number er age amra (+ chinho) dia 0 Number a Divert korte pari..
+console.log(
+    `
+    alo = ${alo}
+    sugar =${sugar}
+    ---------------
+    total = ${alo + parseInt/parseFloat/Number (sugar)}-> that means amra sugar k intiger er maddome number e conver kore felbo than mathmetical operation chalabo.. 
+)
+
+
+-sinle-equeal(=)use case:
+let name = 40
+
+-double-equeal(==)use case:
+-tara only value check kore (value hote pare number abar hote pare string-number)
+let number1=40
+let number2=40
+if(number1 == number2){
+    console.log('ok')
+}else{
+    console.log('not ok')
+}
+
+-tripple-equeal(===)use case:
+-tara value and dataType o check kore
+let name1=30
+let name2='30'
+if(name1==name2){
+    console.log('ok')----------answer was OK karon tara value check kore jodio string-number
+}else{
+    console.log('not ok')
+}
+let name1=10
+let name2='10'
+if(name1 === name2){
+    console.log('ok')
+}else{
+    console.log('not ok')-----the answer was NOT OK -karon tara (value and dataType)2tai check korbe so not ok
+}
