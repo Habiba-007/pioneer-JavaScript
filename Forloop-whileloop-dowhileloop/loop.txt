@@ -1,0 +1,40 @@
+
+
+======================Loop========================
+-Loop = (chokro or punora-britti kora).
+-----------------Loop Structure-------------------
+->initial value,
+->condition/end step,
+->operators (++,--)
+-----------------Loop Statement-------------------
+-for Loop
+-while/do while Loop
+=====For Loop=====
+for(let i=0; i<=10; i++){
+
+}
+========while & do while=========
+let i =0;
+while(i<=10){
+    (++,--)
+}
+
+
+
+--------------------------------example of loop-------------------
+-2person
+-ali and sarif
+-sarif er kase 20 ti dim ase
+-ali sarif er kase jabe dimm ante
+--eita looping er maddome kivabe hobe?
+ali------>sarif
+ali jave sarif er kase dim ante 
+now alir kase dim ase koyti?
+(intial dim = 0
+koyti kore dim anben ? > = 1 ti or 2ti kore
+condition ki = jotokkhon porjonto dim shes na hoy!)
+
+13)273(21
+  273
+--------
+  0

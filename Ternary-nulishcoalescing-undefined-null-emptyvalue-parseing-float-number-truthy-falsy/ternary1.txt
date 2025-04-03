@@ -69,7 +69,7 @@ if(name1 === name2){
 
 
 
-
+==================================some Home task Here================================================
 /**
  * emon ekti condition make koron- jeikhane user dolar,pound,euro, k tkaa te convert korte pare!
 

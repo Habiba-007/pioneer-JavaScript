@@ -201,6 +201,7 @@ switch (true||false) {
         break;
 }
 */
+//use ifelse condition 
 if (BMI >= 0 && BMI < 18.5) {
     console.log('u r unhelthy person');
 }
